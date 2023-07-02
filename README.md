@@ -1,12 +1,4 @@
-![](https://komarev.com/ghpvc/?username=mr-kaspel)
-
 ### 🖖 Hi there, I'm Andrew
 
-[![codewars](https://www.codewars.com/users/k756/badges/small)](https://www.codewars.com/users/k756)
-
-`I'm currentli working on something cool 🚀`
-
-### My Stats
-
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-kaspel&theme=solarized_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-kaspel&theme=solarized_dark) |
-| ------ | ------ |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
